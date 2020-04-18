@@ -1,4 +1,4 @@
-# Mediciones-Electrónicas
+# Mediciones Electrónicas
  Circuitos Básicos de los apuntes de la Cátedra de Mediciones Electrónicas de la FCEIA
  Se agregaron los siguientes sistemas
  CU
