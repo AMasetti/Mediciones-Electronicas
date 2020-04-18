@@ -1,11 +1,11 @@
-# Mediciones-Electronicas
- Circuitos Basicos de los apuntes de la Catedra de Mediciones Electronicas de la FCEIA
+# Mediciones-Electrónicas
+ Circuitos Básicos de los apuntes de la Cátedra de Mediciones Electrónicas de la FCEIA
  Se agregaron los siguientes sistemas
  CU
  CVF
  CVF Bipolar
- CVF Bipolar con deteccion de Signo
+ CVF Bipolar con detección de Signo
  DS
  
-# Forma de utilizacion
+# Forma de utilización
  Descargar y ejecutar Init.m antes de utilizar cada archivo Simulink ya que en el mismo se definen variables clave para el uso de los sistemas.
